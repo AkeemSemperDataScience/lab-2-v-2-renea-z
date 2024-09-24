@@ -37,6 +37,8 @@ def lab2Question2(number_val):
 #Testing
 lab2Question2(10)
 lab2Question2(20)
+lab2Question2(7) 
+lab2Question2(-2)
  
 
 
@@ -56,6 +58,7 @@ def lab2Question3(str1, str2):
             break
     return count
 #Testing
+
 print(lab2Question3("renea", "re"))
 print(lab2Question3("Coding is cool", "co"))
 print(lab2Question3("What's up", "what"))
